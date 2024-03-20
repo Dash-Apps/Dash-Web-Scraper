@@ -1,2 +1,2 @@
 # Dash-Web-Scraper
-scrapes as much as possible from a website by gathering and downloading request URLS and their corresponding requirements.
+an app that allows you to crawl websites and scrape data or just clone them all together
