@@ -1,4 +1,4 @@
 import requests
-def main():
-    return requests.get(url="https://coolmathgames.com").text
-print(main())
+
+requests.get("https://solid-telegram-gg96j456rpwf9rw5-8080.app.github.dev/")
+print("program ran")
