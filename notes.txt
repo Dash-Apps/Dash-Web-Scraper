@@ -1,3 +1,0 @@
-https://medium.com/@pankaj_pandey/web-scraping-using-python-for-dynamic-web-pages-and-unveiling-hidden-insights-8dbc7da6dd26
-
-apparently using a webdriver is much better and easier for loading and scrapinf dynamic web pages
