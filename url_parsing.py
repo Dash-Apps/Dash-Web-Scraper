@@ -12,4 +12,3 @@ def is_subpath(url,new_url):
         return True
     else:
         return False
-print(is_subpath("https://selenium-python.readthedocs.io/api.html","https://selenium-python.readthedocs.io/api.html#selenium.webdriver.support.event_firing_webdriver.EventFiringWebDriver"))
