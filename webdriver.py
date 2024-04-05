@@ -21,3 +21,4 @@ def get_resources(url: str,options: dict):
     driver.quit()
     return resources
 print(get_resources("https://webscraper.io/","test"))
+
