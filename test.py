@@ -1,4 +1,6 @@
-import requests
-
-requests.get("https://solid-telegram-gg96j456rpwf9rw5-8080.app.github.dev/")
-print("program ran")
+from pywebcopy import save_webpage
+save_webpage(
+      url="https://realpython.com/python-download-file-from-url/",
+      project_name="my_site",
+      bypass_robots=True,
+)
